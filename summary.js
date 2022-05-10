@@ -18,3 +18,19 @@ var remaining = mangoes / hungryPerson;
 console.log(remaining);
 var remaining2 = mangoes % hungryPerson;
 console.log(remaining2);
+
+//find out the errors 
+
+Var price = 33
+
+var name - Shabana
+
+var boxName = ‘Cocola;
+
+var 88_price = 34;
+
+var enum = -1;
+
+var _$box’78 = ‘Monika’;
+
+var home-address = “kochu khet”;
